@@ -1,0 +1,18 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14121a"/>
+      <stop offset="100%" stop-color="#1c1824"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#C8A97E"/>
+      <stop offset="100%" stop-color="#8B7FD6"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="16" fill="url(#bg)"/>
+  <rect x="0" y="0" width="8" height="180" rx="4" fill="url(#accent)"/>
+  <text x="90" y="102" font-family="'Fira Code', monospace" font-size="34" fill="#C8A97E" text-anchor="middle">&lt;/&gt;</text>
+  <circle cx="90" cy="90" r="42" fill="none" stroke="#8B7FD6" stroke-width="3" opacity="0.85"/>
+  <text x="160" y="88" font-family="Georgia, 'Playfair Display', serif" font-size="42" fill="#F3EFE7" font-weight="600">HTML Notes</text>
+  <text x="160" y="120" font-family="'Inter', 'DM Sans', sans-serif" font-size="18" fill="#9A93A8">Basics &#8594; Semantic HTML &#8594; Accessibility</text>
+</svg>
